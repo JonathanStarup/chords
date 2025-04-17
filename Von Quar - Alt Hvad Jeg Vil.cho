@@ -1,0 +1,53 @@
+{title: Von Quar - Alt Hvad Jeg Vil}
+{artist: Von Quar}
+
+{capo: 3}
+
+{define: Am base-fret 1 frets x 2 2 1 0 0}
+{define: F  base-fret 1 frets 1 3 3 2 1 0}
+
+{start_of_grid: shape="1+2"}
+Intro || Am | Am ||
+{end_of_grid}
+
+{start_of_verse}
+[Am]Hej, hold kæft du [Am]viser mig hjem til [Am]dig.   [Am]
+[Am]Dig, fuck det det [Am]smukkeste - what a [Am]life (oh oh o[Am]oooh).
+{end_of_verse}
+
+{start_of_bridge}
+For på min side af [F]vejen står du for [F]evigt ung og farver lortet i [Am]mig (oh woho[Am]oo).
+Hvad er der egentlig med [F]dig? Tror du for [F]evigt ung - this is the time of my [Am]life (oh woho[Am]ooo).
+{end_of_bridge}
+
+{start_of_chorus}
+Du' alt hvad jeg [F]vil (ah ah ah yeah). Du alt hvad jeg [F]vil (ah ah ah yeah).
+Du' alt hvad jeg [Am]vil. Du alt hvad jeg [Am]vil, du er dig.
+Du' alt hvad jeg [F]vil (ah ah ah yeah). Du alt hvad jeg [F]vil (ah ah ah yeah).
+Du' alt hvad jeg [Am]vil. Du alt hvad jeg [Am]vil, du er dig.
+{end_of_chorus}
+
+{start_of_verse}
+Dine veninder sir' jeg [Am]alt for slem, sir' jeg lissom' de [Am]andre mænd,
+vil kun ha dig med i [Am]seng (oh woho[Am]ooo).
+
+Men du så meget [F]mere værd. Ja, du så meget [F]mere-
+Undskyld, men fuck de veninder [Am]der! Ved de overhovedet hvem du [Am]er - nej.
+
+For på min side af [F]vejen står du for [F]evigt ung og farver lortet i [Am]mig (oh woho[Am]ooo).
+Hvad er der egentlig med [F]dig? Tror du for [F]evigt ung - this is the time of my [Am]life (oh woho[Am]ooo).
+{end_of_verse}
+
+{start_of_chorus}
+Du' alt hvad jeg [F]vil (ah ah ah yeah). Du alt hvad jeg [F]vil (ah ah ah yeah).
+Du' alt hvad jeg [Am]vil. Du alt hvad jeg [Am]vil, du er dig.
+Du' alt hvad jeg [F]vil (ah ah ah yeah). Du alt hvad jeg [F]vil (ah ah ah yeah).
+Du' alt hvad jeg [Am]vil. Du alt hvad jeg [Am]vil, du er dig, du er dig, du er dig.
+{end_of_chorus}
+
+{start_of_chorus}
+[F]      Du er dig  [F]    Du er dig [Am]     (yeah yeah) [Am]
+Du er dig [F]     [F]     Du er dig [Am] (yeah) [Am]     Lalalala la la
+{end_of_chorus}
+
+(End the song with a single muted strum.)
